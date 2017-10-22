@@ -1,0 +1,2 @@
+The puropse of this project is to form data sets of valuable information obtained by simulating the control sequence diagram of a video rental software. The data sets so formed will later be used for optimization of the methodology of forming sequence diagrams.
+
